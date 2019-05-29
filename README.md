@@ -1,8 +1,9 @@
-To use this project download the master branch.
-Then unzip the file to a directory or folder of your choosing, navigate to the directory or folder with the terminal.
-Then type the command `npm install`. This should grab all the dependencies.
-Once the dependencies are downloaded, type the command `npm start`. This will create a web server on port 3000, see the description below.
-
+## Use instructions
+To use this project download the master branch.<br />
+Then unzip the file to a directory or folder of your choosing, navigate to the directory or folder with the terminal.<br />
+Then type the command `npm install`. This should grab all the dependencies.<br />
+Once the dependencies are downloaded, type the command `npm start`. This will create a web server on port 3000, see the description below.<br />
+<hr />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
